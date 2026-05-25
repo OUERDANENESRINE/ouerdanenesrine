@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+🎓 Computer Science Graduate from USTHB
+💻 Software Developer passionate about building impactful tech solutions
+🚀 Interested in Full-Stack Development, AI, and Backend Systems
+🌱 Always learning new technologies and improving my skills
+
+🛠️ Tech Stack
+Frontend: React, Next.js, TypeScript
+Backend: Java, Spring Boot, Node.js
+Database: MySQL, PostgreSQL
+Tools: Git, GitHub, Docker
+📌 Current Goals
+Build strong real-world projects
+Improve backend & system design skills
+Start an international software engineering career
+
+ My linked in : www.linkedin.com/in/ouerdane-nesrine
+
+
+
+
 <!--
 **OUERDANENESRINE/ouerdanenesrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
