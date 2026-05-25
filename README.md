@@ -15,7 +15,7 @@ Build strong real-world projects
 Improve backend & system design skills
 Start an international software engineering career
 
- My linked in : www.linkedin.com/in/ouerdane-nesrine
+ My linked in :www.linkedin.com/in/ouerdane-nesrine-119b82322
 
 
 
